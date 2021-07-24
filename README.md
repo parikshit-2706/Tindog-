@@ -1,2 +1,2 @@
-# Tindog-
+# Tindog+
 A Tinder for Dogs ;)
